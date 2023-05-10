@@ -1,0 +1,17 @@
+@media (max-width: 420px) {
+    #bg {
+       background-position: bottom;
+    }
+    #navbar {
+        margin-left: -12rem;
+    }
+    #navlist {
+        display: none;
+    }
+}
+@media (max-width: 1300px) {
+    #bg {
+        width: auto;
+        background-position: bottom;
+    }
+}
