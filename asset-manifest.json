@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PushpHousing/static/css/main.9676cab5.css",
+    "main.js": "/PushpHousing/static/js/main.d376895e.js",
+    "static/media/bg2.png": "/PushpHousing/static/media/bg2.bac3ad5c62e51cb82d5a.png",
+    "static/media/logo.png": "/PushpHousing/static/media/logo.35a0d806d673076912fb.png",
+    "index.html": "/PushpHousing/index.html",
+    "main.9676cab5.css.map": "/PushpHousing/static/css/main.9676cab5.css.map",
+    "main.d376895e.js.map": "/PushpHousing/static/js/main.d376895e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9676cab5.css",
+    "static/js/main.d376895e.js"
+  ]
+}
